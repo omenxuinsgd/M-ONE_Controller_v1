@@ -33,7 +33,7 @@ Lihat demo pengoperasian M-ONE Controller v1 di video berikut:
 [![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/omenxuinsgd/M-ONE_Controller_v1/blob/main/2025-03-21_09h20_39.mp4)
 
 ## 📜 Lisensi
-Proyek ini dilisensikan di bawah MIT License - lihat file `LICENSE` untuk detail lebih lanjut.
+Proyek ini dilisensikan di bawah MajoreIT License - lihat file `LICENSE` untuk detail lebih lanjut.
 
 ## 💡 Kontribusi
 Jika Anda ingin berkontribusi, silakan buat pull request atau ajukan issue di repositori ini.
